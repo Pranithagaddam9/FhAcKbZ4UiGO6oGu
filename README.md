@@ -103,8 +103,5 @@ Contributions are welcome! Please:
 2. Create a feature branch
 3. Submit a pull request
 
-## License
-MIT License - see [LICENSE](LICENSE) for details
-
 ## Contact
-For questions or suggestions, please contact [Your Name] at [your.email@example.com]
+For questions or suggestions, please contact Pranitha Gaddam at pranitha.gaddam79@gmail.com
